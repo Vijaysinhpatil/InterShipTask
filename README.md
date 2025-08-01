@@ -20,8 +20,6 @@ A full-stack web app to track interns, their referrals, and donations using **Re
 my-intern-app/
 ├── client/ # React frontend
 ├── server/ # Express backend
-│ ├── models/ # Mongoose models
-│ └── routes/ # API routes
 ├── README.md
 
 
