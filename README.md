@@ -10,7 +10,6 @@ A full-stack web app to track interns, their referrals, and donations using **Re
 
 - **Frontend**: React (Vite)
 - **Backend**: Node.js + Express
-- **Database**: MongoDB
 - **API**: Axios
 - **CORS**: Express CORS Middleware
 
